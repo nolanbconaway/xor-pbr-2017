@@ -24,7 +24,6 @@ fsize=22;
 
 coordinates = round((coordinates+1)/2 *6);
 
-
 data = [];
 
 % subjectid, condition, phase, trial, d1, d2, response, correct, accuracy
