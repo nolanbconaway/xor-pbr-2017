@@ -1,0 +1,3 @@
+When we originally ran this, it was four conditions where we twisted up the XOR category structure, so we called it the "twistedxor" experiment. We called it `twistedxor2` due to a failed pilot early on.
+
+Only the first two experiments were published in the PBR paper, though all four are discussed [in my master's thesis](https://search.proquest.com/openview/4db978232e9fdd1d6eaaa656e08b879d/). Let me know if you want data from the latter two conditions; I did not include them here. You'll find references to these conditions scattered about.
